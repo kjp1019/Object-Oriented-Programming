@@ -17,6 +17,7 @@ public class ScannerExample {
 		int result = x + y;
 		System.out.println("x + y: " + result);
 		System.out.println();
+		
 		while (true) {
 			System.out.print("입력 문자열: ");
 			String data = scanner.nextLine();
@@ -27,6 +28,6 @@ public class ScannerExample {
 			System.out.println();
 		}
 		System.out.println("종료");
-		
+	
 	}
 }
