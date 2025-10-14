@@ -29,5 +29,4 @@ public class ArrayCreateByVaueListExample1 {
 		double avg = (double) sum/3;
 		System.out.println("평균: " + avg);
 	}
-
 }

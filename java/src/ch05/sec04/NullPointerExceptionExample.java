@@ -11,4 +11,5 @@ public class NullPointerExceptionExample {
 		String str = "홍길동";
 		System.out.println("총 문자수: " + str.length());	//NullPointerException
 	}
+	
 }

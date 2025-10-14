@@ -24,5 +24,4 @@ public class ArrayCreateByVaueListExample2 {
 			System.out.println("score[" + i + "]: " + scores[i]);
 		}
 	}
-
 }

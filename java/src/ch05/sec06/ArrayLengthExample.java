@@ -17,5 +17,4 @@ public class ArrayLengthExample {
 		double avg = (double) sum/scores.length;
 		System.out.println("평균: " + avg);
 	}
-
 }

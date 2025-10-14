@@ -53,4 +53,5 @@ public class ArrayCreateByNewExample {
 			System.out.print("arr3[" + i + "] : " + arr3[i] + ", ");
 		}
 	}
+	
 }

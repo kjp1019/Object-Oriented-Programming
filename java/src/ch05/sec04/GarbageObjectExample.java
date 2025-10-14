@@ -12,4 +12,5 @@ public class GarbageObjectExample {
 		
 		System.out.println("kind2: " + kind2);
 	}
+	
 }

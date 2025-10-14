@@ -11,4 +11,5 @@ public class SubStringExample {
 		String secondNum = ssn.substring(7);
 		System.out.println(secondNum);
 	}
+	
 }

@@ -8,4 +8,5 @@ public class EmptyStringExample {
 			System.out.println("hobby의 변수가 참조는 String 객체는 빈문자열");
 		}
 	}
+	
 }
