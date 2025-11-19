@@ -148,6 +148,6 @@ public class BankApplication {
     			return accounts[i];
     		}
     	}
-    	return null;	//못 찾으면 nul
+    	return null;	//못 찾으면 null
     }
 }
